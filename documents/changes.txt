@@ -1,0 +1,2 @@
+- Separated Login and Registering - two buttons with different functionalities 
+- Implemented google maps and GPS
